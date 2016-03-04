@@ -1,0 +1,9 @@
+E:\MyProgram\my program\CspProjects\TaskAllocator\TaskAllocator\bin\Debug\TaskAllocator.exe.config
+E:\MyProgram\my program\CspProjects\TaskAllocator\TaskAllocator\bin\Debug\TaskAllocator.exe
+E:\MyProgram\my program\CspProjects\TaskAllocator\TaskAllocator\bin\Debug\TaskAllocator.pdb
+E:\MyProgram\my program\CspProjects\TaskAllocator\TaskAllocator\obj\Debug\TaskAllocator.csprojResolveAssemblyReference.cache
+E:\MyProgram\my program\CspProjects\TaskAllocator\TaskAllocator\obj\Debug\TaskAllocator.frmMain.resources
+E:\MyProgram\my program\CspProjects\TaskAllocator\TaskAllocator\obj\Debug\TaskAllocator.Properties.Resources.resources
+E:\MyProgram\my program\CspProjects\TaskAllocator\TaskAllocator\obj\Debug\TaskAllocator.csproj.GenerateResource.Cache
+E:\MyProgram\my program\CspProjects\TaskAllocator\TaskAllocator\obj\Debug\TaskAllocator.exe
+E:\MyProgram\my program\CspProjects\TaskAllocator\TaskAllocator\obj\Debug\TaskAllocator.pdb
